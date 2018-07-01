@@ -1,4 +1,4 @@
-# Project Title
+# Project Name
 Journal App
 
 # Project Description
