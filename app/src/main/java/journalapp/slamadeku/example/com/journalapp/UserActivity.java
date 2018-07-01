@@ -42,7 +42,7 @@ public class UserActivity extends AppCompatActivity {
         String user = bundle.getString("username");
         greetingTextView = (TextView) findViewById(R.id.greeting_text_view);
         btnLogOut = (Button) findViewById(R.id.logout_button);
-        btnPostArticle= (Button) findViewById(R.id.btn_post_article);
+        btnPostArticle= (Button) findViewById(R.id.btn_post_diary);
         greetingTextView.setText("Hello "+ user);
         // Progress dialog
         btnLogOut.setOnClickListener(new View.OnClickListener() {
