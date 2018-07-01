@@ -14,7 +14,7 @@
     <string name="err_msg_password">Enter a Password</string>
     <string name="err_msg_dob">Enter a valid D.O.B</string>
     <string name="btn_login">Login</string>
-    <string name="btn_post_diary">Post an Diary</string>
+    <string name="btn_post_diary">Post a Diary</string>
     <string name="btn_store_diary">Save Diary</string>
     <string name="btn_show_diaries">Show Diaries</string>
     <string name="post_diary_title">Save Diary</string>

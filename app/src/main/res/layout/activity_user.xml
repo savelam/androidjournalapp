@@ -31,7 +31,7 @@
     <Button android:id="@+id/btn_post_article"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:text="@string/btn_post_article"
+        android:text="@string/btn_post_diary"
         android:background="@color/login_button_background"
         android:layout_marginTop="20dp"
         android:textColor="@android:color/white"/>
